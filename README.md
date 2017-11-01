@@ -11,6 +11,6 @@
 
 游戏界面如下：
 
-![GoBang](https://thumbnail0.baidupcs.com/thumbnail/7d9fcafc9a1727968c09914e610c106d?fid=559684340-250528-892074095799511&time=1507640400&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-ISsCzW8RtYyeyGfIfhhqB5Yd%2f48%3d&expires=8h&chkbd=0&chkv=0&dp-logid=6560714547944203723&dp-callid=0&size=c10000_u10000&quality=90&vuk=559684340&ft=image)
+![GoBang](http://oyqo0q1a2.bkt.clouddn.com/GoBang.png)
 
 </font>
