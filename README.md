@@ -8,9 +8,4 @@
 
 #### 3. 基于局域网内的多玩家五子棋游戏还没有开发完成
 
-
-游戏界面如下：
-
-![GoBang](http://oyqo0q1a2.bkt.clouddn.com/GoBang.png)
-
 </font>
